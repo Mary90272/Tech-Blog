@@ -35,5 +35,5 @@ in .env file to your personal (Mysql) password
 ## Relevant Links
 Deployed Application:
 <br>
-GitHub Repo:
+GitHub Repo:https://github.com/Mary90272/Tech-Blog
 
