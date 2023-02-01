@@ -33,7 +33,7 @@ in .env file to your personal (Mysql) password
 ![alt text](assets/images/Screenshot_20230129_072702.png)
 ![alt text](assets/images/Screenshot_20230129_073234.png)
 ## Relevant Links
-Deployed Application:
+Deployed Application: https://tech-blogs123.herokuapp.com/
 <br>
 GitHub Repo:https://github.com/Mary90272/Tech-Blog
 
